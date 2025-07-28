@@ -1,7 +1,6 @@
 # Prateek Patil – Data Science Intern at Shrestha IT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek%20Patil-blue?logo=linkedin)](https://www.linkedin.com/in/prateek-patil-7b4660281/)
-[![Girlscript Summer of Code](https://img.shields.io/badge/Girlscript-Contributor-f54ea2?logo=github)](https://www.girlscript.tech/soc)
 
 ---
 
@@ -14,6 +13,11 @@
       <animate attributeName="width" from="0" to="50" dur="1s" fill="freeze" />
     </rect>
   </svg>
+</p>
+
+<!-- Add Shrestha Company Logo -->
+<p align="center">
+  <img src="https://your-image-url.com/shrestha_logo.png" alt="Shrestha IT Technologies" width="120"/>
 </p>
 
 ---
@@ -35,11 +39,10 @@
 - Badminton 🏸
 
 ## 🚀 Achievements
-- Contributor in **GirlScript Summer of Code**
 - Won First Prize in Code Quest held in AITM College
 
 ---
 
-> _Turning Data into Solutions | Sports Enthusiast | Girlscript Contributor_
+> _Turning Data into Solutions | Sports Enthusiast_
 
 ---
