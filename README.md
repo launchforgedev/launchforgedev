@@ -5,10 +5,15 @@
 
 ---
 
-<!-- Animated Header -->
+<!-- ✨ Animated Intro Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=500&lines=Hi+there!+👋;I'm+Prateek+Patil;Aspiring+Data+Analyst+%7C+Tech+Enthusiast;Turning+Data+Into+Insights!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Prateek+Patil;Data+Analyst+%7C+Tech+Enthusiast;Turning+Data+into+Insights!;Welcome+to+my+Profile!🚀" alt="Typing SVG" />
 </h1>
+
+<!-- 🌈 Animated Border Box -->
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=✨%20Prateek%20Patil%20✨&text2=Data%20Analyst%20|%20AI%20Explorer&width=800&height=200" alt="animated banner" />
+</div>
 ---
 
 ## 🔭 About Me  
