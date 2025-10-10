@@ -5,37 +5,10 @@
 
 ---
 
-<p align="center">
-  <!-- Animated SVG Logo -->
-  <svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PP logo">
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1">
-        <stop offset="0%" stop-color="#0078d4"/>
-        <stop offset="100%" stop-color="#00b0ff"/>
-      </linearGradient>
-      <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-        <feDropShadow dx="0" dy="6" stdDeviation="8" flood-opacity="0.12"/>
-      </filter>
-    </defs>
-
-    <!-- Circle with pulse animation -->
-    <g filter="url(#shadow)">
-      <circle cx="80" cy="60" r="50" fill="url(#g1)">
-        <animate attributeName="r" values="48;52;48" dur="2.4s" repeatCount="indefinite" />
-      </circle>
-    </g>
-
-    <!-- Initials -->
-    <text x="80" y="74" text-anchor="middle" font-size="44" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700">PP</text>
-
-    <!-- Loading bar -->
-    <rect x="40" y="110" width="80" height="8" rx="4" fill="#ffcc00" opacity="0.95" />
-    <rect x="40" y="110" width="0" height="8" rx="4" fill="#0047ab">
-      <animate attributeName="width" from="0" to="80" dur="1.6s" repeatCount="indefinite" />
-    </rect>
-  </svg>
-</p>
-
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=500&lines=Hi+there!+👋;I'm+Prateek+Patil;Aspiring+Data+Analyst+%7C+Tech+Enthusiast;Turning+Data+Into+Insights!" alt="Typing SVG" />
+</h1>
 ---
 
 ## 🔭 About Me  
