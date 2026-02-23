@@ -1,4 +1,4 @@
-# 👨‍💻 Prateek Patil – Data Analyst Intern @ Shrestha IT Technologies  
+# 👨‍💻 Prateek Patil – Cybersecurity Analyst Intern @ Shrestha IT Technologies  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek%20Patil-blue?logo=linkedin)](https://www.linkedin.com/in/prateek-patil-7b4660281/)  
 [![GitHub](https://img.shields.io/badge/GitHub-prateek--patil--projects-black?logo=github)](https://github.com/)
@@ -14,7 +14,7 @@
 ---
 
 ## 🔭 About Me  
-I’m **Prateek Patil**, a Data Analyst intern passionate about transforming raw data into actionable insights.  
+I’m **Prateek Patil**, a Cybersecurity Analyst intern passionate about transforming raw data into actionable insights.  
 I enjoy applying **data science, analytics, and machine learning** techniques to solve practical, impactful problems.
 
 ---
