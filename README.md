@@ -11,7 +11,7 @@
 
 ## 🔭 About Me
 
-I'm **Prateek Patil**, currently serving as a **Newsletter Operations Intern at CSTE Group**, passionate about transforming raw data into actionable insights. I enjoy applying **data science, analytics, and machine learning** techniques to solve practical, impactful problems.
+I'm **Prateek Patil**, passionate about transforming raw data into actionable insights. I enjoy applying **data science, analytics, and machine learning** techniques to solve practical, impactful problems.
 
 ---
 
@@ -19,7 +19,7 @@ I'm **Prateek Patil**, currently serving as a **Newsletter Operations Intern at 
 
 | Role | Organization | Status |
 |------|-------------|--------|
-| 📰 Newsletter Operations Intern | CSTE Group | 🟢 Current |
+
 | 🔐 Cybersecurity Analyst Intern | Shrestha IT Technologies | ⚪ Previous |
 
 ---
