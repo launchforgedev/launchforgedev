@@ -1,5 +1,12 @@
 # 👨‍💻 Prateek Patil
-# Under Maintenance
-# Work In Progress
+#Python Full Stack Engineer
+
+
+# Technologies
+#Python
+#FastAPI
+#FastMCP
+#MySQL
+#AWS
 
 
