@@ -2,7 +2,7 @@
 <p align="center">Python Full Stack Developer · AI Tools Builder · Flask / FastAPI / LLMs</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prateek-patil">
+  <a href="https://www.linkedin.com/in/prateek-patil-7b4660281/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/launchforgedev">
